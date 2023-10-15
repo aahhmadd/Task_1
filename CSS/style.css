@@ -125,7 +125,7 @@ ul{
 }
 /* stat landing */
 .landing{
-  background-image: url(../images/mountain.jpg);
+  background-image: url(../Images/mountain.jpg);
   background-size: cover;
   height: calc(100vh - 70px);
   position: relative;
